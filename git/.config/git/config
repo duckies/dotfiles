@@ -3,7 +3,7 @@
 	email = 7842848+duckies@users.noreply.github.com
 	signingkey = 7842848+duckies@users.noreply.github.com
 [gpg]
-	program = "/mnt/c/Program Files (x86)/gnupg/bin/gpg.exe"
+	program = /mnt/c/Program Files (x86)/gnupg/bin/gpg.exe
 [commit]
 	gpgsign = true
 [push]
@@ -19,4 +19,4 @@
 [rebase]
 	autosquash = true
 [credential]
-	helper = "/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe"
+	helper = /mnt/c/Program\\ Files/Git/mingw64/bin/git-credential-manager.exe
