@@ -16,6 +16,6 @@ Create a file in `~/.config/git/config.local` with your git credentials.
 ```ini
 [user]
   name = John Doe
-	email = john@doe.com
-	signingkey = SIGNING_KEY
+  email = john@doe.com
+  signingkey = SIGNING_KEY
 ```
